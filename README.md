@@ -2,11 +2,12 @@
 
 Usage:
 
-1. Make sure you are using Python 3.7+ for the Logging tool
+1. Make sure you are using Python 3.7+ for the Asyncio Module
 
 2. `node index`
 
 3. Swap out
+
    ` // var testy = execFile("python3", ["slow.py"]);`
 
    ` var testy = execFileSync("python3", ["slow.py"]);`
