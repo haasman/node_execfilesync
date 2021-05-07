@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "exec-file-sync": "^3.0.0"
+  }
+}
